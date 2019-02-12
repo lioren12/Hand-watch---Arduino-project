@@ -1,5 +1,5 @@
 # Clock + Alarm + Stopper---Arduino-project
-Watch + Alarm + Stopper implemented over Digilent Basys MX3 MCU trainer board - C project
+Hand watch implemented over Digilent Basys MX3 MCU trainer board - C project
 This card contains micro-controler PIC32MX370 by Microchip, which includes MIPS CPU, Memories, timers, interrupts and DMA.
 
 # Abstract

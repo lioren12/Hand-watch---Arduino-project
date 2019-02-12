@@ -4,7 +4,9 @@ This card contains micro-controler PIC32MX370 by Microchip, which includes MIPS 
 
 # Abstract
 Clock display mode: SW0 = OFF, SW1 = OFF {"HH:MM:SS"}.
+
 Clock time set mode: SW0 = ON, SW1 = OFF {Set time with BTNC(for H/M/S mode) , BTNR (for up) and BTNL (for down)}.
+
 Alarm set mode: SW0 = OFF, SW1 = ON.
 Alarm sound mode: SW7= ON {The alarm will ring for a minute}.
 Stopper mode: SW0 = OFF, SW1 = OFF {Over the 7-segment display - "SS:QQ"}.

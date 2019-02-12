@@ -14,7 +14,7 @@ Alarm sound mode: SW7= ON {The alarm will ring for a minute}.
 Stopper mode: SW0 = OFF, SW1 = OFF {Over the 7-segment display - "SS:QQ"}.
 
 
-# implementation details
+# Implementation details
 1. The clock is built with one timer that runs during the entire alarm time.
 
 1.1. For each mode of the slide switches, there is an interrupt called CurrentTime that takes care of the time updating

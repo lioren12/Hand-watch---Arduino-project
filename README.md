@@ -22,7 +22,7 @@ Stopper mode: SW0 = OFF, SW1 = OFF {Over the 7-segment display - "SS:QQ"}.
      Every millisecond except SET TIME mode (which responisble for setting the time).
      
 1.2. In the SET TIME mode there is another interrupt called TimeForSetTime, which updates the clock
-     for a Long PUSH operation. (Running the the time over the screen faster)
+     for a Long PUSH operation (Running the the time over the screen faster).
      
 2. The stopwatch function works simultaneously with the clock operation at all times.
 
